@@ -1,2 +1,2 @@
 # weatherapp
-My weather app using APIs and JavaScropt
+My weather app using APIs and JavaScript
